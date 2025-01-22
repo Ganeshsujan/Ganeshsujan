@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshsujan
 )](https://github.com/Ganeshsujan
 /github-readme-stats)
-💻 Aspiring Software Engineer | AI Enthusiast    
+💻 Aspiring Software Engineer | AI Enthusiast
 
 🎓 Final Year Student | GPA: 7.8
 
