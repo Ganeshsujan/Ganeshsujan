@@ -16,3 +16,5 @@
 🏏 Hobbies: Watching Anime, Playing Cricket
 
 🎯 Short-term Goal: Secure a role in a reputed company.
+
+📫 How to reach me ...nallidhanaganesh@gmail.com
