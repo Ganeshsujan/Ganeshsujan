@@ -1,7 +1,8 @@
 # Hi Nalli Dhana Ganesh 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ganeshsujan
-)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+&show_icons=true)(https://github-readme-stats.vercel.app/api?username=Ganeshsujan
+)
 
 💻 Aspiring Software Engineer | AI Enthusiast
 
