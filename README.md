@@ -11,7 +11,7 @@
 
 🌟 Projects: Fake News Detection using Deep Learning | Collision Avoiding Robot-Car
 
-🌱 Skills: Python, C, Machine Learning Basics
+🌱 Skills: Python, java, Machine Learning and Artificial intelligence
 
 🏏 Hobbies: Watching Anime, Playing Cricket
 
