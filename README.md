@@ -1,5 +1,6 @@
 # Hi Nalli Dhana Ganesh 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 💻 Aspiring Software Engineer | AI Enthusiast
 🎓 Final Year Student | GPA: 7.8
 📂 Passionate about Machine Learning, Deep Learning, and AI projects.
